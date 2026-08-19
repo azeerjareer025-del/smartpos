@@ -1,0 +1,33 @@
+# SmartPOS V2 acceptance test plan
+
+- [ ] Add product
+- [ ] Edit product
+- [ ] Search by product/barcode
+- [ ] Category filtering
+- [ ] Stock-in and stock-out
+- [ ] Low/out-of-stock warnings
+- [ ] Create sale
+- [ ] Quantity controls
+- [ ] Fixed discount
+- [ ] Percentage discount
+- [ ] Cash received/change
+- [ ] Card payment
+- [ ] Bank transfer payment
+- [ ] Credit sale/customer balance
+- [ ] Invoice generation
+- [ ] 80mm print
+- [ ] A4 print
+- [ ] Reprint invoice
+- [ ] Cancel/refund and reverse stock
+- [ ] Purchase receiving increases stock
+- [ ] Supplier balance
+- [ ] Customer credit/payment
+- [ ] Expense recording
+- [ ] Daily/weekly/monthly/custom reports
+- [ ] Login/logout
+- [ ] Admin/manager/cashier permissions
+- [ ] Audit trail
+- [ ] CSV/Excel-compatible exports
+- [ ] iPhone Safari layout
+- [ ] Android layout
+- [ ] Desktop/tablet layout
